@@ -3,7 +3,7 @@ Edan Core staging tree 0.10
 
 `master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
 
-https://www.dash.org
+https://www.projetedan.org
 
 
 What is Edan?
