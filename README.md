@@ -21,11 +21,6 @@ For more information, as well as an immediately useable, binary version of
 the Edan Core software, see https://www.projetedan.org/get-edan/.
 
 
-License
--------
-
-Dash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
 
 
 Development Process
@@ -65,3 +60,9 @@ code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
+
+License
+-------
+
+Dash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
